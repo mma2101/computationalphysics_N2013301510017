@@ -1,5 +1,4 @@
 # computationalphysics_N2013301510017
-计算物理课程软件池
-##并不知道语法
->**所以随便写**
-[超链接怎么弄来着？](https://www.baidu.com/)
+- 计算物理课程软件池
+##作业列表
+> - [homework03](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/homework03.md)
