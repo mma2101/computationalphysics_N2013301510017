@@ -15,3 +15,9 @@ execfile("带格式文件名")
 import os
 os.system("python 完整路径")
 ```
+
+## 三、清楚屏幕
+```python
+import os
+os.system('cls')
+```
