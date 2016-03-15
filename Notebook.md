@@ -16,7 +16,7 @@ import os
 os.system("python 完整路径")
 ```
 
-## 三、清楚屏幕
+## 三、清除屏幕
 ```python
 import os
 os.system('cls')
