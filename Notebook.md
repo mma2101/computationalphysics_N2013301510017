@@ -5,13 +5,13 @@
 
 ## 二、在Ipython中运行保存好的.py格式文件
 - 方法一
-```
+```python
 import os
 os.chdir("文件夹路径")
 execfile("带格式文件名")
 ```
 - 方法二
-```
+```python
 import os
 os.system("python 完整路径")
 ```
