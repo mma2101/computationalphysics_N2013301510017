@@ -3,3 +3,6 @@
 
 ##作业列表
 > - [**homework03**](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/homework03.md)
+
+##Notebook
+> - [这里存放一些Note](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/Notebook.md)
