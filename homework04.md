@@ -9,5 +9,7 @@
 > [代码链接](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/homework04.py)
 > ###题目
 >> 考虑某原子可在态A与B之间跃迁，跃迁速率由以下方程组决定
+
+
 >> $$\frac{dN_A}{dt}=\frac{N_B}{\tau}+\frac{N_A}{\tau}$$
 >> $$\frac{dN_B}{dt}=\frac{N_A}{\tau}+\frac{N_B}{\tau}$$
