@@ -7,10 +7,12 @@
 
 ##正文
 > [代码链接](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/homework04.py)
+
 > ###题目
 >> 考虑某原子可在态A与B之间跃迁，跃迁速率由以下方程组决定
 >> $$\frac{dN_A}{dt}=\frac{N_B}{\tau}+\frac{N_A}{\tau}$$
 >> $$\frac{dN_B}{dt}=\frac{N_A}{\tau}+\frac{N_B}{\tau}$$
 >> 给定初始两种态的原子数及特征时间，求出两态原子数随时间的变化关系，指出系统平衡态的特点。
+
 >###解决思路
 >>使用欧拉方法，在用户输入初始条件后，利用方程的有限元近似形式，计算每隔dt时间后N的变化量dN及N(t+dt)，并将历次算得的N(t)和t分别存为列表，最后利用matplotlib作出变化曲线Na(t)与Nb(t)。
