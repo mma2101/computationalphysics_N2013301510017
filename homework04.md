@@ -44,3 +44,9 @@ plt.show()
 ```
 >>程序运行后，输入初始条件Na=200，Nb=50，time=5，输出曲线图如下
 >> ![homework04_pic](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/homework04_pic.png)
+
+##结论
+> 通过数值求解该方程组，成功模拟大量原子在两态之间跃迁并趋向平衡的过程。作图后发现，当系统趋于平衡时，两种原子的数量趋于相等。
+
+##致谢
+> - 断断续续的校园网
