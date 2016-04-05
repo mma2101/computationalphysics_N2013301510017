@@ -22,7 +22,7 @@
 
 ##正文
 ###Level 1（习题2.9）
->[*代码homework06_L1_2.9.py*](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/Chapter_2/homework06_L1_2.9.py)  
+>[*代码homework06_L1_2.9.py*](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9.py)  
 - 题目要求  
 考虑空气阻力和海拔影响，计算不同抛射角度下的运动轨迹，寻找使得落点最远的抛射角。  
 - 解决方法  
@@ -78,3 +78,20 @@ plt.annotate(text,xy=(21200,4300),xytext=(23000,5000),arrowprops=dict(arrowstyle
 plt.show()
 ```
 作图时可选择画出最远的轨迹，抑或将所有角度的轨迹都画出来，后者可得到漂亮的图形。计算得到的最优角度及各种图片将在“结论”部分给出。  
+
+###Level 2（习题2.10）
+(施工中)
+
+##结论  
+###Level 1  
+> - 程序运行结果  
+
+```
+Maxangle= 43.7  
+Maxdistance= 24592.6051944
+```
+因此在初始速率700m/s时，使得抛射距离最远的角度为43.7度，最远距离为24592.6051944m。轨迹如下图  
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9.png)
+此外，将所有轨迹每隔10度或1度都画出来，可得下图  
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9_2.png)
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9_3.png)
