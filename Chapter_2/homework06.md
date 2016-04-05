@@ -85,13 +85,14 @@ plt.show()
 ##结论  
 ###Level 1  
 > - 程序运行结果  
-
 ```
 Maxangle= 43.7  
 Maxdistance= 24592.6051944
 ```
 因此在初始速率700m/s时，使得抛射距离最远的角度为43.7度，最远距离为24592.6051944m。轨迹如下图  
-![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9.png)
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9.png)  
 此外，将所有轨迹每隔10度或1度都画出来，可得下图  
-![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9_2.png)
-![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9_3.png)
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9_2.png)  
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework06_L1_2.9_3.png)  
+非常漂酿  
+
