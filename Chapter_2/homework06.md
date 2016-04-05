@@ -1,2 +1,2 @@
 #第六次作业
-![](http://latex.codecogs.com/gif.latex?\frac{d^2x}{dt^2}=0)
+![](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%5E2x%7D%7Bdt%5E2%7D%3D0)
