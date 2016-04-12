@@ -72,7 +72,7 @@ distance with tailwind and nospin= 127.371397529
 distance with headwind and nospin= 108.617475213
 ```
 > 轨迹如下  
-![]()  
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_2/homework07_L1_2.19.png)  
 > 易见下旋会使球飞得更高更远，顺风也当然有利于球的飞行。  
 
 ## **致谢**
