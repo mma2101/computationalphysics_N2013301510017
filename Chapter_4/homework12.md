@@ -22,7 +22,7 @@
 > 该式使用天文单位，v的方向垂直于径向。  
 
 #模拟结果  
-> (**代码链接**)[https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_4/homework12_4.18.py]  
+> [**代码链接**](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_4/homework12_4.18.py)  
 > 先检验程序的正确性。取三个小行星的轨道和速度如书121页表4.4，模拟初始短时间内四个行星的运动  
 ![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_4/12.1.png)  
 > 可见在开始时四者均作圆周运动。
