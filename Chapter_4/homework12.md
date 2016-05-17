@@ -29,4 +29,5 @@
 ![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_4/12.2.png)  
 > 可见80年后，三条小行星轨道均有不同程度的偏离，其中r=3.276AU的一条偏离程度最大。
 > 继续增长模拟时间，第4250至4282年间的轨迹如下  
-!()[]
+!()[https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_4/12.3.png]  
+> 此时，三条轨道均已不是圆形，其中处于r=3.276AU的一条（处于“禁止区域”）已经脱离太阳束缚。
