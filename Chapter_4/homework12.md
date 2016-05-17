@@ -26,4 +26,5 @@
 ![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_4/12.1.png)  
 > 可见在开始时四者均作圆周运动。
 > 加长模拟时间至80yr  
-![]()
+![](https://raw.githubusercontent.com/mma2101/computationalphysics_N2013301510017/master/Chapter_4/12.2.png)  
+> 可见80年后，三条小行星轨道均有不同程度的偏离，其中r=3.276AU的一条偏离程度最大
