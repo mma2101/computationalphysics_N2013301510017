@@ -14,7 +14,7 @@
 > - [**homework12**](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/Chapter_4/homework12.md)  
 > - [**homework13**](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/Chapter_5/homework13.md)  
 > - [**homework14**](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/Chapter_6/homework14.md)  
-> - [**Final Project**](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/Chapter_6/homework14.md)  
+> - [**Final Project**](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/%E9%9A%8F%E6%9C%BA%E8%A1%8C%E8%B5%B0.doc)  
 
 ##Notebook
 > - [这里存放一些Note](https://github.com/mma2101/computationalphysics_N2013301510017/blob/master/Notebook.md)
